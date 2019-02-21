@@ -1,4 +1,7 @@
 {
   "name": "ab-gallery",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "blueimp-gallery": "2.30.*"
+  }
 }
